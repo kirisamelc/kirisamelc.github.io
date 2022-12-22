@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>雾雨</title>
+        <subtitle>白波连雾雨，青壁断蒹葭。</subtitle>
+        <icon>http://kirisamelc.github.io/images/favicon.ico</icon>
+        <link>http://kirisamelc.github.io</link>
+        <author>
+          <name>Codus</name>
+        </author>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 21 Dec 2022 21:11:50 +0800</pubDate>
+        <lastBuildDate>Wed, 21 Dec 2022 21:11:50 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://kirisamelc.github.io/2022/12/21/Test/</guid>
+            <title>Test</title>
+            <link>http://kirisamelc.github.io/2022/12/21/Test/</link>
+            <category term="test" scheme="http://kirisamelc.github.io/tags/test/" />
+            <pubDate>Wed, 21 Dec 2022 21:11:50 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;Test&#34;&gt;&lt;a href=&#34;#Test&#34; class=&#34;headerlink&#34; title=&#34;Test&#34;&gt;&lt;/a&gt;Test&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;\begin{align}&lt;br&gt;&amp;amp;(x+y+z)^3-x^3-y^3-z^3 =k(x+y)(y+z)(z+x) \\&lt;br&gt;&amp;amp;代入x=y=z=1,得24=8k,k=3 \\&lt;br&gt;&amp;amp;原式=3(x+y)(y+z)(z+x)&lt;br&gt;\end{align}&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;\binom{n}{m}=\binom{n-1}{m-1}+\binom{n-1}{m}&lt;br&gt;$$&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://kirisamelc.github.io/2022/12/21/%E6%A8%A1%E6%9D%BF/mod/</guid>
+            <title></title>
+            <link>http://kirisamelc.github.io/2022/12/21/%E6%A8%A1%E6%9D%BF/mod/</link>
+            <pubDate>Wed, 21 Dec 2022 17:26:35 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://kirisamelc.github.io/2022/11/15/Nothing/</guid>
+            <title>Nothing</title>
+            <link>http://kirisamelc.github.io/2022/11/15/Nothing/</link>
+            <pubDate>Tue, 15 Nov 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Nothing&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

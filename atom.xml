@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://kirisamelc.github.io</id>
+    <title>雾雨</title>
+    <link href="http://kirisamelc.github.io" />
+    <updated>2022-12-21T13:11:50.725Z</updated>
+    <category term="test" />
+    <entry>
+        <id>http://kirisamelc.github.io/2022/12/21/Test/</id>
+        <title>Test</title>
+        <link rel="alternate" href="http://kirisamelc.github.io/2022/12/21/Test/"/>
+        <content type="html">&lt;h3 id=&#34;Test&#34;&gt;&lt;a href=&#34;#Test&#34; class=&#34;headerlink&#34; title=&#34;Test&#34;&gt;&lt;/a&gt;Test&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;\begin{align}&lt;br&gt;&amp;amp;(x+y+z)^3-x^3-y^3-z^3 =k(x+y)(y+z)(z+x) \\&lt;br&gt;&amp;amp;代入x=y=z=1,得24=8k,k=3 \\&lt;br&gt;&amp;amp;原式=3(x+y)(y+z)(z+x)&lt;br&gt;\end{align}&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;\binom{n}{m}=\binom{n-1}{m-1}+\binom{n-1}{m}&lt;br&gt;$$&lt;/p&gt;
+</content>
+        <category term="test" />
+        <updated>2022-12-21T13:11:50.725Z</updated>
+    </entry>
+    <entry>
+        <id>http://kirisamelc.github.io/2022/12/21/%E6%A8%A1%E6%9D%BF/mod/</id>
+        <title></title>
+        <link rel="alternate" href="http://kirisamelc.github.io/2022/12/21/%E6%A8%A1%E6%9D%BF/mod/"/>
+        <content type="html"></content>
+        <updated>2022-12-21T09:26:35.814Z</updated>
+    </entry>
+    <entry>
+        <id>http://kirisamelc.github.io/2022/11/15/Nothing/</id>
+        <title>Nothing</title>
+        <link rel="alternate" href="http://kirisamelc.github.io/2022/11/15/Nothing/"/>
+        <content type="html">&lt;p&gt;Nothing&lt;/p&gt;
+</content>
+        <updated>2022-11-14T16:00:00.000Z</updated>
+    </entry>
+</feed>
