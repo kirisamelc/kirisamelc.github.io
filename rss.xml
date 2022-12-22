@@ -10,16 +10,55 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Wed, 21 Dec 2022 21:11:50 +0800</pubDate>
-        <lastBuildDate>Wed, 21 Dec 2022 21:11:50 +0800</lastBuildDate>
+        <pubDate>Thu, 22 Dec 2022 11:06:58 +0800</pubDate>
+        <lastBuildDate>Thu, 22 Dec 2022 11:06:58 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://kirisamelc.github.io/2022/12/21/Test/</guid>
+            <guid isPermalink="true">http://kirisamelc.github.io/2022/12/22/Test/</guid>
             <title>Test</title>
-            <link>http://kirisamelc.github.io/2022/12/21/Test/</link>
+            <link>http://kirisamelc.github.io/2022/12/22/Test/</link>
             <category term="test" scheme="http://kirisamelc.github.io/tags/test/" />
-            <pubDate>Wed, 21 Dec 2022 21:11:50 +0800</pubDate>
-            <description><![CDATA[ &lt;h3 id=&#34;Test&#34;&gt;&lt;a href=&#34;#Test&#34; class=&#34;headerlink&#34; title=&#34;Test&#34;&gt;&lt;/a&gt;Test&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;\begin{align}&lt;br&gt;&amp;amp;(x+y+z)^3-x^3-y^3-z^3 =k(x+y)(y+z)(z+x) \\&lt;br&gt;&amp;amp;代入x=y=z=1,得24=8k,k=3 \\&lt;br&gt;&amp;amp;原式=3(x+y)(y+z)(z+x)&lt;br&gt;\end{align}&lt;br&gt;$$&lt;/p&gt;
-&lt;p&gt;$$&lt;br&gt;\binom{n}{m}=\binom{n-1}{m-1}+\binom{n-1}{m}&lt;br&gt;$$&lt;/p&gt;
+            <pubDate>Thu, 22 Dec 2022 11:06:58 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; Test&lt;/h3&gt;
+\begin{align}
+&amp;amp;(x+y+z)^3-x^3-y^3-z^3 =k(x+y)(y+z)(z+x) \\\\
+&amp;amp;代入x=y=z=1,得24=8k,k=3 \\\\
+&amp;amp;原式=3(x+y)(y+z)(z+x)
+\end{align}
+
+&lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;mo fence=&#34;true&#34;&gt;(&lt;/mo&gt;&lt;mfrac linethickness=&#34;0px&#34;&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mfrac&gt;&lt;mo fence=&#34;true&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mrow&gt;&lt;mo fence=&#34;true&#34;&gt;(&lt;/mo&gt;&lt;mfrac linethickness=&#34;0px&#34;&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo fence=&#34;true&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mrow&gt;&lt;mo fence=&#34;true&#34;&gt;(&lt;/mo&gt;&lt;mfrac linethickness=&#34;0px&#34;&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mfrac&gt;&lt;mo fence=&#34;true&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\binom{n}{m}=\binom{n-1}{m-1}+\binom{n-1}{m}
+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:2.40003em;vertical-align:-0.95003em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size3&#34;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.1075599999999999em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.6769999999999996em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size3&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:2.40003em;vertical-align:-0.95003em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size3&#34;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3214400000000002em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.6770000000000005em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.7693300000000001em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size3&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:2.40003em;vertical-align:-0.95003em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size3&#34;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.32144em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size3&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;markdown:&lt;br&gt;
+render: # 渲染器设置&lt;br&gt;
+ html: false # 过滤 HTML 标签&lt;br&gt;
+ xhtmlOut: true # 使用 ‘/’ 来闭合单标签 （比如 &lt;br&gt;）。&lt;br&gt;
+breaks: true # 转换段落里的 ‘\n’ 到 &lt;br&gt;。&lt;br&gt;
+linkify: true # 将类似 URL 的文本自动转换为链接。&lt;br&gt;
+typographer:&lt;br&gt;
+quotes: ‘“”‘’’&lt;br&gt;
+plugins: # markdown-it 插件设置&lt;br&gt;
+ - plugin:&lt;br&gt;
+name: markdown-it-toc-and-anchor&lt;br&gt;
+enable: true&lt;br&gt;
+options: # 文章目录以及锚点应用的 class 名称，shoka 主题必须设置成这样&lt;br&gt;
+ tocClassName: ‘toc’&lt;br&gt;
+anchorClassName: ‘anchor’&lt;br&gt;
+- plugin:&lt;br&gt;
+name: markdown-it-multimd-table&lt;br&gt;
+enable: true&lt;br&gt;
+options:&lt;br&gt;
+multiline: true&lt;br&gt;
+rowspan: true&lt;br&gt;
+headerless: true&lt;br&gt;
+- plugin:&lt;br&gt;
+name: ./markdown-it-furigana&lt;br&gt;
+enable: true&lt;br&gt;
+options:&lt;br&gt;
+fallbackParens: “()”&lt;br&gt;
+- plugin:&lt;br&gt;
+name: ./markdown-it-spoiler&lt;br&gt;
+enable: true&lt;br&gt;
+options:&lt;br&gt;
+title: “你知道得太多了”&lt;/p&gt;
  ]]></description>
         </item>
         <item>
