@@ -10,14 +10,14 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 22 Dec 2022 11:09:03 +0800</pubDate>
-        <lastBuildDate>Thu, 22 Dec 2022 11:09:03 +0800</lastBuildDate>
+        <pubDate>Thu, 22 Dec 2022 12:12:08 +0800</pubDate>
+        <lastBuildDate>Thu, 22 Dec 2022 12:12:08 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">http://kirisamelc.github.io/2022/12/22/Test/</guid>
             <title>Test</title>
             <link>http://kirisamelc.github.io/2022/12/22/Test/</link>
             <category term="test" scheme="http://kirisamelc.github.io/tags/test/" />
-            <pubDate>Thu, 22 Dec 2022 11:09:03 +0800</pubDate>
+            <pubDate>Thu, 22 Dec 2022 12:12:08 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; Test&lt;/h3&gt;
 \begin{align}
 &amp;amp;(x+y+z)^3-x^3-y^3-z^3 =k(x+y)(y+z)(z+x) \\\\
