@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>Test</title>
+      <link href="/2022/12/21/Test/"/>
+      <url>/2022/12/21/Test/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h3><p>$$<br>\begin{align}<br>&amp;(x+y+z)^3-x^3-y^3-z^3 =k(x+y)(y+z)(z+x) \\<br>&amp;代入x=y=z=1,得24=8k,k=3 \\<br>&amp;原式=3(x+y)(y+z)(z+x)<br>\end{align}<br>$$</p><p>$$<br>\binom{n}{m}=\binom{n-1}{m-1}+\binom{n-1}{m}<br>$$</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2022/12/21/%E6%A8%A1%E6%9D%BF/mod/"/>
+      <url>/2022/12/21/%E6%A8%A1%E6%9D%BF/mod/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Nothing</title>
       <link href="/2022/11/15/Nothing/"/>
       <url>/2022/11/15/Nothing/</url>
