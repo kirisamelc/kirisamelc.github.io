@@ -13,21 +13,24 @@
         <pubDate>Sun, 30 Apr 2023 00:00:00 +0800</pubDate>
         <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://kirisamelc.github.io/2023/04/30/%E6%88%91%E5%AF%B9%E9%87%8D%E5%BF%83%E7%9A%84%E8%AF%AF%E4%BC%9A/</guid>
-            <title>我对重心的误会</title>
-            <link>http://kirisamelc.github.io/2023/04/30/%E6%88%91%E5%AF%B9%E9%87%8D%E5%BF%83%E7%9A%84%E8%AF%AF%E4%BC%9A/</link>
+            <guid isPermalink="true">http://kirisamelc.github.io/2023/04/30/triangle_gravity_line/</guid>
+            <title>关于过重心的直线分三角形</title>
+            <link>http://kirisamelc.github.io/2023/04/30/triangle_gravity_line/</link>
             <category term="math" scheme="http://kirisamelc.github.io/tags/math/" />
             <category term="geometry" scheme="http://kirisamelc.github.io/tags/geometry/" />
             <pubDate>Sun, 30 Apr 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h3 id=&#34;伪证&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#伪证&#34;&gt;#&lt;/a&gt; 伪证&lt;/h3&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;伪证&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#伪证&#34;&gt;#&lt;/a&gt; 伪证&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;这是一段伪证&lt;br&gt;
-，，，&lt;br&gt;
-，，，&lt;/p&gt;
+&lt;p&gt;用线吊起一三角形，三角形静止时，线所在直线竖直且过三角形重心。三角形静止，似乎被直线分成两部分的三角形质量相等，若三角形质地均匀，则可推出两部分面积也相等。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;上述用物理方法证明了一个命题:&lt;/p&gt;
+&lt;div class=&#34;note danger&#34;&gt;
+&lt;p&gt;&lt;strong&gt;任一直线过三角形重心，把三角形分为面积相等两部分。&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;这显然是一个&lt;strong&gt;假命题&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://p1.ssl.qhmsg.com/dr/270_500_/t01af43ee51fa352dd7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;正在完成中&lt;br&gt;
-&lt;img data-src=&#34;https://www.helloimg.com/images/2023/04/30/oqH1EE.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://www.helloimg.com/images/2023/05/01/oqMl6X.jpg&#34; alt=&#34;&#34; title=&#34;恋&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

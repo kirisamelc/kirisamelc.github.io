@@ -5,11 +5,11 @@
     "home_page_url": "http://kirisamelc.github.io",
     "items": [
         {
-            "id": "http://kirisamelc.github.io/2023/04/30/%E6%88%91%E5%AF%B9%E9%87%8D%E5%BF%83%E7%9A%84%E8%AF%AF%E4%BC%9A/",
-            "url": "http://kirisamelc.github.io/2023/04/30/%E6%88%91%E5%AF%B9%E9%87%8D%E5%BF%83%E7%9A%84%E8%AF%AF%E4%BC%9A/",
-            "title": "我对重心的误会",
+            "id": "http://kirisamelc.github.io/2023/04/30/triangle_gravity_line/",
+            "url": "http://kirisamelc.github.io/2023/04/30/triangle_gravity_line/",
+            "title": "关于过重心的直线分三角形",
             "date_published": "2023-04-29T16:00:00.000Z",
-            "content_html": "<h3 id=\"伪证\"><a class=\"markdownIt-Anchor\" href=\"#伪证\">#</a> 伪证</h3>\n<blockquote>\n<p>这是一段伪证<br>\n，，，<br>\n，，，</p>\n</blockquote>\n<p><img data-src=\"https://p1.ssl.qhmsg.com/dr/270_500_/t01af43ee51fa352dd7.png\" alt=\"\"></p>\n<p>正在完成中<br>\n<img data-src=\"https://www.helloimg.com/images/2023/04/30/oqH1EE.jpg\" alt=\"\"></p>\n",
+            "content_html": "<h2 id=\"伪证\"><a class=\"markdownIt-Anchor\" href=\"#伪证\">#</a> 伪证</h2>\n<blockquote>\n<p>用线吊起一三角形，三角形静止时，线所在直线竖直且过三角形重心。三角形静止，似乎被直线分成两部分的三角形质量相等，若三角形质地均匀，则可推出两部分面积也相等。</p>\n</blockquote>\n<p>上述用物理方法证明了一个命题:</p>\n<div class=\"note danger\">\n<p><strong>任一直线过三角形重心，把三角形分为面积相等两部分。</strong></p>\n</div>\n<p>这显然是一个<strong>假命题</strong>。</p>\n<p><img data-src=\"https://p1.ssl.qhmsg.com/dr/270_500_/t01af43ee51fa352dd7.png\" alt=\"\"></p>\n<p>正在完成中<br>\n<img data-src=\"https://www.helloimg.com/images/2023/05/01/oqMl6X.jpg\" alt=\"\" title=\"恋\"></p>\n",
             "tags": [
                 "math",
                 "geometry"
